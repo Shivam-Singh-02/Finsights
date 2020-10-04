@@ -1,0 +1,14 @@
+{
+    "resourceName": "translateHack",
+    "convertPolicyName": "translateTextPolicy7a0ad629",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "translateText",
+    "sourceLang": "en",
+    "targetLang": "hi",
+    "access": "authAndGuest"
+}

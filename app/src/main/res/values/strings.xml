@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Finsights</string>
+    <string name="Read">Button</string>
+    <string name="read">Read</string>
+    <string name="onboard">Welcome</string>
+    <string name="phoneHint">Phone No</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="ageHint">Age</string>
+    <string name="signup">Sign Up</string>
+    <string name="smsAck">Authorise to use SMS data for personalisation</string>
+
+</resources>

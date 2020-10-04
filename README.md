@@ -1,2 +1,0 @@
-# Finsights
-Expenditure classification
